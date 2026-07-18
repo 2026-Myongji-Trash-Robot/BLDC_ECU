@@ -1,0 +1,2 @@
+../Core/Src/bldc_hall.c:11:6:Hall_ReadState	2
+../Core/Src/bldc_hall.c:34:6:HAL_TIM_IC_CaptureCallback	5

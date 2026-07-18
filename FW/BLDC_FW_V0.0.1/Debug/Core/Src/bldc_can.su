@@ -1,0 +1,6 @@
+../Core/Src/bldc_can.c:12:16:_CAN_FloatToInt16	32	static
+../Core/Src/bldc_can.c:21:6:CAN_Init	48	static
+../Core/Src/bldc_can.c:50:13:_CAN_SendStatus	104	static
+../Core/Src/bldc_can.c:103:6:CAN_Task100ms	8	static
+../Core/Src/bldc_can.c:129:6:HAL_FDCAN_RxFifo0Callback	80	static
+../Core/Src/bldc_can.c:212:6:HAL_FDCAN_ErrorStatusCallback	16	static

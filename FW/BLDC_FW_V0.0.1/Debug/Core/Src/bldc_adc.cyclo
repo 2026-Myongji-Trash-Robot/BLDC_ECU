@@ -1,0 +1,6 @@
+../Core/Src/bldc_adc.c:10:14:_ADC_RawToAmpere	1
+../Core/Src/bldc_adc.c:17:6:ADC_CalibrateOffset	2
+../Core/Src/bldc_adc.c:48:6:ADC_SampleCurrents	1
+../Core/Src/bldc_adc.c:78:17:_ADC5_ReadChannel	1
+../Core/Src/bldc_adc.c:100:17:_ADC5_ReadJoy	2
+../Core/Src/bldc_adc.c:130:6:ADC_Task10ms	19

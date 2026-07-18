@@ -1,0 +1,4 @@
+../Core/Src/bldc_led.c:14:6:LED_Init	1
+../Core/Src/bldc_led.c:29:6:LED_SysTick	3
+../Core/Src/bldc_led.c:47:6:LED_SignalCAN	1
+../Core/Src/bldc_led.c:53:6:LED_Task10ms	8
